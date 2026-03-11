@@ -2,6 +2,8 @@
 
 A front-end clone of the **Spotify Web Player** built using HTML and CSS, replicating the core UI of Spotify's music streaming interface.
 
+> 👨‍💻 **Made by [Chandon Kumar](https://github.com/chandon2025)**
+
 ---
 
 ## 📸 Preview
@@ -64,7 +66,7 @@ spotify-clone/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/spotify-clone.git
+   git clone https://github.com/chandon2025/Spotify_web_player_project.git
    ```
 
 2. **Navigate into the project folder**
@@ -85,6 +87,20 @@ spotify-clone/
 - Music player bar is currently a UI placeholder (no audio functionality)
 - Card images need to be added manually to the project folder
 - No JavaScript interactivity yet (play/pause, navigation, etc.)
+
+---
+
+## 📖 What I Learned
+
+This project took me around **2-3 days** to complete. Through building this Spotify clone, I learned and practiced:
+
+- Structuring a real-world UI using **semantic HTML**
+- Using **CSS Flexbox** for layout and alignment
+- Working with **external fonts** (Google Fonts) and **icon libraries** (Font Awesome)
+- Implementing **sticky positioning** for navigation bars
+- Creating **responsive designs** using media queries
+- Styling components like **cards, badges, and sidebars** from scratch
+- Understanding how to break down a complex UI into smaller reusable components
 
 ---
 
